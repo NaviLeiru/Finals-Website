@@ -1,3 +1,7 @@
+**HTML Generator documentation**
+Submitted by:
+- Logrono Jan Francesca 
+
 FORMAT
 $variable = HTMLTag::<tag>()
 -><attribute>("value")
